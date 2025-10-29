@@ -1,0 +1,12 @@
+A simple and fun Hangman Game built in Python  
+Try to guess the hidden word one letter at a time before you run out of lives!
+
+
+##  Game Rules
+
+1. A random word is selected from a predefined list.
+2. The player sees blanks (`_ _ _ _`) for each letter in the word.
+3. The player guesses one letter at a time.
+   -  If the letter is in the word — it appears in the correct spot(s).
+   -  If not — you lose one life.
+4. You win if you guess the word before you lose all your lives!
